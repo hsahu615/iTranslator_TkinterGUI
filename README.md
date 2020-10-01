@@ -1,2 +1,2 @@
 # iTranslator_TkinterGUI
-## This Translator can translator languages..!!
+## This Translator can translate languages..!!
